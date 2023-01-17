@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Guillaume RICARD aka Citelis, I'm a French engineering studient in computer science at 📍 Telecom Nancy 
 
 I'm mainly interested in compilers (and the language theory behind it), cryptography and networks. 
 
-### My languages
+## My languages
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -16,8 +16,23 @@ I'm mainly interested in compilers (and the language theory behind it), cryptogr
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+</div>
 
 
+## Projects
+
+
+### Claudle : A wordle copy (React + TS) and a solver (C) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=claudle)](https://github.com/FantomeBeignet/claudle)
+
+### ftc : Recreated the `find` function from scratch (C) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=ftc)](https://github.com/FantomeBeignet/ftc)
+
+### flashcards : A 4 days project to create a flashcards application (JavaFX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=flashcards-codingweek)](https://github.com/CitelisIT/flashcards-codingweek)
+
+  
+  
 
 
 
