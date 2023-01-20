@@ -23,10 +23,10 @@ I'm mainly interested in compilers (and the language theory behind it), cryptogr
 
 
 ### Claudle : A wordle copy (React + TS) and a solver (C) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=claudle)](https://github.com/FantomeBeignet/claudle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=Claudle)](https://github.com/CitelisIT/Claudle)
 
 ### ftc : Recreated the `find` function from scratch (C) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FantomeBeignet&repo=ftc)](https://github.com/FantomeBeignet/ftc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=find-the-cat)](https://github.com/CitelisIT/find-the-cat)
 
 ### flashcards : A 4 days project to create a flashcards application (JavaFX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=flashcards-codingweek)](https://github.com/CitelisIT/flashcards-codingweek)
