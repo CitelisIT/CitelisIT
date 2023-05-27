@@ -21,6 +21,8 @@ I'm mainly interested in compilers (and the language theory behind it), cryptogr
 
 ## Projects
 
+### Tigerc : A compiler for the [tiger language](https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=tigerc)](https://github.com/CitelisIT/tigerc)
 
 ### Claudle : A wordle copy (React + TS) and a solver (C) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=Claudle)](https://github.com/CitelisIT/Claudle)
@@ -31,7 +33,6 @@ I'm mainly interested in compilers (and the language theory behind it), cryptogr
 ### flashcards : A 4 days project to create a flashcards application (JavaFX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=flashcards-codingweek)](https://github.com/CitelisIT/flashcards-codingweek)
 
-  
   
 
 
