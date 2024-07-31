@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Guillaume RICARD aka Citelis, I'm a French engineering studient in computer science at 📍 Telecom Nancy 
+
+I'm a French engineering studient in computer science at 📍 Telecom Nancy 
 
 I'm mainly interested in compilers (and the language theory behind it), cryptography and networks. 
 
