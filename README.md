@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a French engineering studient in computer science at 📍 Telecom Nancy 
+I'm a French engineering studient in computer science at 📍 Telecom Nancy. Right now I'm doing a 6 months internship within a Forensics team. 
 
 I'm mainly interested in compilers (and the language theory behind it), cryptography and networks. 
 
@@ -21,6 +21,10 @@ I'm mainly interested in compilers (and the language theory behind it), cryptogr
 
 
 ## Projects
+
+
+### A malware with no name : A _simple_ malware in C(++) for a reverse engineering class
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=projectMalware)](https://github.com/CitelisIT/projectMalware)
 
 ### Tigerc : A compiler for the [tiger language](https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CitelisIT&repo=tigerc)](https://github.com/CitelisIT/tigerc)
